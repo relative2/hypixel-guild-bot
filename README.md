@@ -1,5 +1,6 @@
 # hypixel-guild-bot
-Verifies users' membership of a guild on Hypixel and automatically gives them a role
+Verifies users' membership of a guild on Hypixel and automatically gives them a role  
+Absolutely **NO** support will be given to host this bot. If you open an issue asking for support to host the bot you will be banned from interacting with the repository.
 
 ## Usage
 Install [node.js](https://nodejs.org) and [yarn](https://yarnpkg.com) onto your system before continuing.  
